@@ -59,7 +59,7 @@ Results are calculated dynamically using backend logic built with Servlets and J
 
 ## 📸 Project Screenshots
 
-(Add your screenshots inside a folder named `screenshots`)
+
 
 ![Home Page](homepage.png)
 ![Registration Page](reegister.png)
@@ -84,9 +84,7 @@ Results are calculated dynamically using backend logic built with Servlets and J
 
 ---
 
-## 🎥 Project Demo
 
-👉 Add your YouTube demo link here
 
 ---
 
