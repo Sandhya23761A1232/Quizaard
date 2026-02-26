@@ -61,10 +61,11 @@ Results are calculated dynamically using backend logic built with Servlets and J
 
 (Add your screenshots inside a folder named `screenshots`)
 
-![Home Page](screenshots/home.png)
-![Registration Page](screenshots/register.png)
-![Login Page](screenshots/login.png)
-![Dashboard](screenshots/dashboard.png)
+![Home Page](homepage.png)
+![Registration Page](reegister.png)
+![Login Page](dashboard.png)
+![Quiz page](login.png)
+![Results](results.png)
 
 ---
 
